@@ -1,0 +1,237 @@
+
+/* Class = "UILabel"; text = "إعادة تعيين كلمه المرور "; ObjectID = "08l-pl-ITq"; */
+"08l-pl-ITq.text" = "إعادة تعيين كلمه المرور ";
+
+/* Class = "UILabel"; text = "رقم الهاتف"; ObjectID = "0px-aJ-rs6"; */
+"0px-aJ-rs6.text" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1uc-VW-IzA"; */
+"1uc-VW-IzA.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "موافق و الاستمرار "; ObjectID = "2CF-aH-qp3"; */
+"2CF-aH-qp3.normalTitle" = "موافق و الاستمرار ";
+
+/* Class = "UILabel"; text = "دبي  - المدينة العالمية -  الحي الروسي V21"; ObjectID = "46T-GX-DGP"; */
+"46T-GX-DGP.text" = "دبي  - المدينة العالمية -  الحي الروسي V21";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Uk-P8-dEj"; */
+"4Uk-P8-dEj.text" = "Label";
+
+/* Class = "UILabel"; text = "البريد الالكتروني "; ObjectID = "5m0-JJ-YHz"; */
+"5m0-JJ-YHz.text" = "البريد الالكتروني ";
+
+/* Class = "UILabel"; text = "اختيار وسيله الدفع"; ObjectID = "5x3-8R-QZV"; */
+"5x3-8R-QZV.text" = "اختيار وسيله الدفع";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الدخول "; ObjectID = "65x-VI-xK2"; */
+"65x-VI-xK2.normalTitle" = "تسجيل الدخول ";
+
+/* Class = "UIButton"; normalTitle = "الاستمرار و الدفع "; ObjectID = "6Px-Ks-UiK"; */
+"6Px-Ks-UiK.normalTitle" = "الاستمرار و الدفع ";
+
+/* Class = "UIButton"; normalTitle = "اعاده المحاوله "; ObjectID = "7Cz-a0-vrR"; */
+"7Cz-a0-vrR.normalTitle" = "اعاده المحاوله ";
+
+/* Class = "UILabel"; text = "احمد محمد عبدالله"; ObjectID = "8hm-qk-6bV"; */
+"8hm-qk-6bV.text" = "احمد محمد عبدالله";
+
+/* Class = "UILabel"; text = "إجمالي الطلبات "; ObjectID = "9Sp-ve-btr"; */
+"9Sp-ve-btr.text" = "إجمالي الطلبات ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BWS-TC-SzP"; */
+"BWS-TC-SzP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "الاسم"; ObjectID = "BY0-TO-AY2"; */
+"BY0-TO-AY2.text" = "الاسم";
+
+/* Class = "UIButton"; normalTitle = "قم بتغير كلمة المرور"; ObjectID = "DLE-hf-T27"; */
+"DLE-hf-T27.normalTitle" = "قم بتغير كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الدخول"; ObjectID = "DQI-qh-Et6"; */
+"DQI-qh-Et6.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الدخول الان"; ObjectID = "EQV-bx-h7s"; */
+"EQV-bx-h7s.normalTitle" = "تسجيل الدخول الان";
+
+/* Class = "UILabel"; text = "السعر"; ObjectID = "EfP-hh-XF5"; */
+"EfP-hh-XF5.text" = "السعر";
+
+/* Class = "UIButton"; normalTitle = "الدفع عند الاستلام"; ObjectID = "FNm-d0-a6n"; */
+"FNm-d0-a6n.normalTitle" = "الدفع عند الاستلام";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "FVz-bC-YLG"; */
+"FVz-bC-YLG.text" = "0";
+
+/* Class = "UILabel"; text = "عدد  ٢  طلبات"; ObjectID = "FdM-Tj-6iz"; */
+"FdM-Tj-6iz.text" = "عدد  ٢  طلبات";
+
+/* Class = "UILabel"; text = "اي وسيله ترغب في استخدامها "; ObjectID = "H7q-hr-urJ"; */
+"H7q-hr-urJ.text" = "اي وسيله ترغب في استخدامها ";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "NRT-iA-lSO"; */
+"NRT-iA-lSO.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "٢٠ درهم"; ObjectID = "NSG-lA-weL"; */
+"NSG-lA-weL.text" = "٢٠ درهم";
+
+/* Class = "UILabel"; text = "0526242421 - 0588090036"; ObjectID = "Nva-mX-aE0"; */
+"Nva-mX-aE0.text" = "0526242421 - 0588090036";
+
+/* Class = "UIButton"; normalTitle = "حفظ البيانات "; ObjectID = "OnP-eU-sVE"; */
+"OnP-eU-sVE.normalTitle" = "حفظ البيانات ";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الخروج"; ObjectID = "QaG-D9-Wo3"; */
+"QaG-D9-Wo3.normalTitle" = "تسجيل الخروج";
+
+/* Class = "UIButton"; normalTitle = "  Alhareef Resturant"; ObjectID = "Qg8-cL-EDp"; */
+"Qg8-cL-EDp.normalTitle" = "  Alhareef Resturant";
+
+/* Class = "UILabel"; text = "Ahmed Mohamed Abdallah "; ObjectID = "T91-Rt-WQV"; */
+"T91-Rt-WQV.text" = "Ahmed Mohamed Abdallah ";
+
+/* Class = "UILabel"; text = "Long Tap to get location"; ObjectID = "UYH-MC-ewF"; */
+"UYH-MC-ewF.text" = "Long Tap to get location";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "UcO-ev-ZEn"; */
+"UcO-ev-ZEn.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Ugc-KW-AL4"; */
+"Ugc-KW-AL4.text" = "0";
+
+/* Class = "UILabel"; text = "تسجيل الدخول "; ObjectID = "V19-fv-5s0"; */
+"V19-fv-5s0.text" = "تسجيل الدخول ";
+
+/* Class = "UILabel"; text = "علي استعداد تام  لتلبيه كافة الحفلات "; ObjectID = "WPF-LT-28J"; */
+"WPF-LT-28J.text" = "علي استعداد تام  لتلبيه كافة الحفلات ";
+
+/* Class = "UILabel"; text = "045579344  -  048768573"; ObjectID = "Wvz-ar-PEM"; */
+"Wvz-ar-PEM.text" = "045579344  -  048768573";
+
+/* Class = "UILabel"; text = "قمت بطلب شراء  طاجن فراخ و أرز و سلطة بقيمه اجماليه قدرها ١٠٠ درهم  و سيتم الدفع عند الاستلام"; ObjectID = "XHH-iV-ROv"; */
+"XHH-iV-ROv.text" = "قمت بطلب شراء  طاجن فراخ و أرز و سلطة بقيمه اجماليه قدرها ١٠٠ درهم  و سيتم الدفع عند الاستلام";
+
+/* Class = "UILabel"; text = "تفعيل الحساب "; ObjectID = "XuM-Rd-kcK"; */
+"XuM-Rd-kcK.text" = "تفعيل الحساب ";
+
+/* Class = "UILabel"; text = "كلمه المرور"; ObjectID = "YKx-bl-21e"; */
+"YKx-bl-21e.text" = "كلمه المرور";
+
+/* Class = "UILabel"; text = "لا يمكنك التسجيل بهذا الرقم لانه مسجل بالفعل  "; ObjectID = "YhW-NU-rZD"; */
+"YhW-NU-rZD.text" = "لا يمكنك التسجيل بهذا الرقم لانه مسجل بالفعل  ";
+
+/* Class = "UILabel"; text = "كلمه المرور "; ObjectID = "YsN-nD-ge2"; */
+"YsN-nD-ge2.text" = "كلمه المرور ";
+
+/* Class = "UIButton"; normalTitle = "أرسل"; ObjectID = "Z7V-f9-I4X"; */
+"Z7V-f9-I4X.normalTitle" = "أرسل";
+
+/* Class = "UILabel"; text = "الاسم بالعربي"; ObjectID = "ZII-Sq-2sc"; */
+"ZII-Sq-2sc.text" = "الاسم بالعربي";
+
+/* Class = "UILabel"; text = "إجمال السعر"; ObjectID = "aAl-1B-DcY"; */
+"aAl-1B-DcY.text" = "إجمال السعر";
+
+/* Class = "UILabel"; text = "هذا التطبيق يحتاج الي الاتصال بالانترنت و الذي لا تمتلكه في هذا الوقت  الرجاء المحاوله في وقت لاحق"; ObjectID = "aND-Xc-Npg"; */
+"aND-Xc-Npg.text" = "هذا التطبيق يحتاج الي الاتصال بالانترنت و الذي لا تمتلكه في هذا الوقت  الرجاء المحاوله في وقت لاحق";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الدخول"; ObjectID = "auK-AP-lEo"; */
+"auK-AP-lEo.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "الاسم"; ObjectID = "av0-CO-YZO"; */
+"av0-CO-YZO.text" = "الاسم";
+
+/* Class = "UILabel"; text = "قمنا بارسال كود امني لتفعيل حسابك قم بكتابه الكود الامني لتفعيل الحساب "; ObjectID = "bD2-1e-TzX"; */
+"bD2-1e-TzX.text" = "قمنا بارسال كود امني لتفعيل حسابك قم بكتابه الكود الامني لتفعيل الحساب ";
+
+/* Class = "UILabel"; text = "تاكيد كلمة المرور "; ObjectID = "beZ-R9-iqr"; */
+"beZ-R9-iqr.text" = "تاكيد كلمة المرور ";
+
+/* Class = "UIButton"; normalTitle = "اعاده ارسال كود التحقق"; ObjectID = "c12-Eg-OpK"; */
+"c12-Eg-OpK.normalTitle" = "اعاده ارسال كود التحقق";
+
+/* Class = "UITextField"; placeholder = "ابحث عن اي شيء هنا"; ObjectID = "d9y-rT-Qfc"; */
+"d9y-rT-Qfc.placeholder" = "ابحث عن اي شيء هنا";
+
+/* Class = "UIButton"; normalTitle = "هل نسيت كلمة المرور ؟"; ObjectID = "dEA-h5-HEd"; */
+"dEA-h5-HEd.normalTitle" = "هل نسيت كلمة المرور ؟";
+
+/* Class = "UILabel"; text = "لديك حساب بالفعل"; ObjectID = "dSP-IQ-dz5"; */
+"dSP-IQ-dz5.text" = "لديك حساب بالفعل";
+
+/* Class = "UIButton"; normalTitle = "إعاده تعين كلمة المرور"; ObjectID = "eyp-s4-aVA"; */
+"eyp-s4-aVA.normalTitle" = "إعاده تعين كلمة المرور";
+
+/* Class = "UILabel"; text = "لا يوجد اتصال بالانترنت "; ObjectID = "h06-lS-yrb"; */
+"h06-lS-yrb.text" = "لا يوجد اتصال بالانترنت ";
+
+/* Class = "UIButton"; normalTitle = "الاتصال"; ObjectID = "hkK-Bq-wuG"; */
+"hkK-Bq-wuG.normalTitle" = "الاتصال";
+
+/* Class = "UILabel"; text = "إعادة تعين كلمة السر"; ObjectID = "hkl-De-ft3"; */
+"hkl-De-ft3.text" = "إعادة تعين كلمة السر";
+
+/* Class = "UIButton"; normalTitle = "الملف الشخصي"; ObjectID = "iGN-mq-kXW"; */
+"iGN-mq-kXW.normalTitle" = "الملف الشخصي";
+
+/* Class = "UILabel"; text = "تم ارسال طلبك!"; ObjectID = "jP5-k5-AlF"; */
+"jP5-k5-AlF.text" = "تم ارسال طلبك!";
+
+/* Class = "UILabel"; text = "تأكيد كلمه المرور"; ObjectID = "jor-gC-opV"; */
+"jor-gC-opV.text" = "تأكيد كلمه المرور";
+
+/* Class = "UILabel"; text = "قم بتسجيل حساب الان"; ObjectID = "k0B-8c-H5J"; */
+"k0B-8c-H5J.text" = "قم بتسجيل حساب الان";
+
+/* Class = "UIButton"; normalTitle = "لم يتم"; ObjectID = "lHw-jj-TwI"; */
+"lHw-jj-TwI.normalTitle" = "لم يتم";
+
+/* Class = "UILabel"; text = "السعر"; ObjectID = "mMW-AP-Cad"; */
+"mMW-AP-Cad.text" = "السعر";
+
+/* Class = "UIButton"; normalTitle = "ليس لديك حساب ، قم بالتسجيل هنا "; ObjectID = "n1a-hd-onA"; */
+"n1a-hd-onA.normalTitle" = "ليس لديك حساب ، قم بالتسجيل هنا ";
+
+/* Class = "UILabel"; text = "البريد الالكتروني"; ObjectID = "n6d-QW-Ukp"; */
+"n6d-QW-Ukp.text" = "البريد الالكتروني";
+
+/* Class = "UILabel"; text = "الاسم بالانجليزي"; ObjectID = "p1s-5f-Kem"; */
+"p1s-5f-Kem.text" = "الاسم بالانجليزي";
+
+/* Class = "UIButton"; normalTitle = "الطلبات"; ObjectID = "pQq-rb-v1C"; */
+"pQq-rb-v1C.normalTitle" = "الطلبات";
+
+/* Class = "UIButton"; normalTitle = "  Alhareef Resturant & Cafe"; ObjectID = "qQd-sc-Wcb"; */
+"qQd-sc-Wcb.normalTitle" = "  Alhareef Resturant & Cafe";
+
+/* Class = "UIButton"; normalTitle = "العودة للصفحة الرئيسية"; ObjectID = "qfK-zV-8JK"; */
+"qfK-zV-8JK.normalTitle" = "العودة للصفحة الرئيسية";
+
+/* Class = "UIButton"; normalTitle = "معلومات عنا "; ObjectID = "rIc-FT-Tni"; */
+"rIc-FT-Tni.normalTitle" = "معلومات عنا ";
+
+/* Class = "UILabel"; text = "قم بتأكيد الطلب"; ObjectID = "rPq-Dx-5RW"; */
+"rPq-Dx-5RW.text" = "قم بتأكيد الطلب";
+
+/* Class = "UILabel"; text = "تم ارسال طلبك للتنفيذ  ، قد يقوم احد ممثلينا بالتواصل معك "; ObjectID = "rSq-Uy-qSj"; */
+"rSq-Uy-qSj.text" = "تم ارسال طلبك للتنفيذ  ، قد يقوم احد ممثلينا بالتواصل معك ";
+
+/* Class = "UILabel"; text = "Dubai - International City -Russioan Cluster V21"; ObjectID = "sYn-QE-rzV"; */
+"sYn-QE-rzV.text" = "Dubai - International City -Russioan Cluster V21";
+
+/* Class = "UIButton"; normalTitle = "تأكيد كود التحقق"; ObjectID = "thL-dX-Bi5"; */
+"thL-dX-Bi5.normalTitle" = "تأكيد كود التحقق";
+
+/* Class = "UIButton"; normalTitle = "تم "; ObjectID = "twV-Fk-b8n"; */
+"twV-Fk-b8n.normalTitle" = "تم ";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "ufn-Xa-FBs"; */
+"ufn-Xa-FBs.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "كلمه المرور "; ObjectID = "vCz-ry-CFI"; */
+"vCz-ry-CFI.text" = "كلمه المرور ";
+
+/* Class = "UILabel"; text = "العنوان"; ObjectID = "w2n-fD-kIg"; */
+"w2n-fD-kIg.text" = "العنوان";
+
+/* Class = "UIButton"; normalTitle = "الخريطة"; ObjectID = "wiK-Js-Kbf"; */
+"wiK-Js-Kbf.normalTitle" = "الخريطة";
